@@ -21,7 +21,7 @@
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
-			<Item Name="Vision Processing.vi" Type="VI" URL="../../Vision Processing.vi"/>
+			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Utility VIs" Type="Folder" URL="../Utility VIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
